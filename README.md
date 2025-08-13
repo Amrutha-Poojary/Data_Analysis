@@ -20,7 +20,7 @@ The dataset includes :
 ## 📋 Steps Performed
 1. Importing Libraries – Loaded Pandas and Matplotlib.
 2. Loading the Dataset – Used Pandas `read_csv()` to import the file.
-3. Data Grouping – Applied `groupby()` and `sum()` to calculate:
+3. Data Grouping – Applied `groupby()` and `sum()` to calculate :
    - Total sales per year
    - Total sales per month
    - Total sales per country
